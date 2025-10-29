@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ANJALI CHAMOLI</h1>
+<h1 align="center">Hi 👋 I'm ANJALI CHAMOLI</h1>
 <h3 align="center">🤖 A passionate Machine Learning enthusiast from India, dedicated to exploring data-driven solutions, building intelligent models, and continuously learning the latest trends in ML and data science.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalichamoli" alt="anjalichamoli" /></a> </p>
