@@ -1,6 +1,5 @@
 ### HI ! MY NAME IS ANJALI 
 ![]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://imgs.search.brave.com/2_poORhC1_0WsyWrm3MCPGMeZhOyg6GA0ODOXbWlnyA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvdmFsZW50aW5l/cy1kYXktcGxhbm5l/ci1zdGlja2VyLWls/bHVzdHJhdGlvbi13/ZWVrbHktcGxhbm5l/ci13aXRoLWN1dGUt/aWxsdXN0cmF0aW9u/XzY0MjY0LTUxNTMu/anBnP3NlbXQ9YWlz/X2h5YnJpZCZ3PTc0/MCZxPTgw))
-
 🤖 A passionate Machine Learning enthusiast from India, dedicated to exploring data-driven solutions, building intelligent models, and continuously learning the latest trends in ML and data science.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalichamoli" alt="anjalichamoli" /></a> </p>
