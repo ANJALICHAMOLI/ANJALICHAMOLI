@@ -1,24 +1,154 @@
-### HI ! MY NAME IS ANJALI 
-![]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://imgs.search.brave.com/2_poORhC1_0WsyWrm3MCPGMeZhOyg6GA0ODOXbWlnyA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvdmFsZW50aW5l/cy1kYXktcGxhbm5l/ci1zdGlja2VyLWls/bHVzdHJhdGlvbi13/ZWVrbHktcGxhbm5l/ci13aXRoLWN1dGUt/aWxsdXN0cmF0aW9u/XzY0MjY0LTUxNTMu/anBnP3NlbXQ9YWlz/X2h5YnJpZCZ3PTc0/MCZxPTgw))
-🤖 A passionate Machine Learning enthusiast from India, dedicated to exploring data-driven solutions, building intelligent models, and continuously learning the latest trends in ML and data science.
+<h1 align="center">Hi 👋, I'm Anjali Chamoli</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalichamoli" alt="anjalichamoli" /></a> </p>
+<h3 align="center">
+AI/ML Enthusiast | Deep Learning Learner | Future AI Researcher
+</h3>
 
-- 🔭 I’m currently working on **on improving my Machine Learning skills — building small models with Python, scikit-learn, and pandas.**
-
-- 🌱 I’m currently learning **FastAPI – building backend APIs with Python for scalable web applications**
-
-- 📫 How to reach me **484anjali@gmail.com**
-
-- ⚡ Fun fact **I love to dance draw and craft**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anjalichamoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjalichamoli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chmaolianjali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chmaolianjali" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Machine+Learning+Enthusiast;Deep+Learning+Explorer;Learning+Transformers+and+LLMs;Building+AI+Projects+with+Python;Always+Learning+Something+New" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalichamoli&show_icons=true&locale=en&layout=compact" alt="anjalichamoli" /></p>
+## 🚀 About Me
+
+🎓 Computer Science & AI Enthusiast from India
+
+🤖 Passionate about Machine Learning, Deep Learning, NLP, and Generative AI
+
+📚 Currently exploring:
+
+- Transformers Architecture
+- Self Attention Mechanism
+- NLP & Large Language Models
+- FastAPI for AI Applications
+- Deep Learning with TensorFlow & PyTorch
+
+🔭 Working on:
+- Machine Learning Projects
+- Deep Learning Experiments
+- AI-powered Applications
+- Model Deployment using FastAPI
+
+🌱 Goal:
+- Contribute to AI Research
+- Build impactful AI products
+- Work on LLMs and Generative AI systems 
+
+⚡ Fun Fact:
+I love 🎨 Drawing, 💃 Dancing, and ✨ Crafting creative things.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,html,css" />
+</p>
+
+### AI / ML
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- NLP
+- Data Analysis
+- Model Evaluation
+
+### Backend & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode" />
+</p>
+
+### Data Science
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- TensorFlow
+- Keras
+
+---
+
+## 📈 Current Learning Journey
+
+```text
+Python
+  ├── Data Structures
+  ├── Machine Learning
+  ├── Deep Learning
+  ├── CNNs
+  ├── NLP
+  ├── Transformers (learning)
+  └── LLMs(learning)
+```
+
+---
+
+## 🌟 Featured Areas
+
+🧠 Machine Learning
+
+📊 Data Analytics
+
+🤖 Deep Learning
+
+📖 Natural Language Processing
+
+⚡ FastAPI
+
+🔬 AI Research
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/anjalichamoli">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:484anjali@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjalichamoli&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalichamoli&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalichamoli&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💡 Quote I Live By
+
+> "The best way to predict the future is to build it."
+
+⭐ Thanks for visiting my profile!
