@@ -81,6 +81,7 @@ I love 🎨 Drawing, 💃 Dancing, and ✨ Crafting creative things.
 - Scikit-Learn
 - TensorFlow
 - Keras
+- PyTorch
 
 ---
 
