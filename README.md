@@ -94,7 +94,7 @@ Python
   ├── Deep Learning
   ├── CNNs
   ├── NLP
-  ├── Transformers (learning)
+  ├── Transformers 
   └── LLMs(learning)
 ```
 
