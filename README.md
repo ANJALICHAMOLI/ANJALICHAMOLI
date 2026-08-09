@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Chamoli</h1>
 
 <h3 align="center">
-AI/ML Enthusiast | Deep Learning Learner | Future AI Researcher
+AI/ML Enthusiast | Deep Learning Learner | Future AI Engineer
 </h3>
 
 <p align="center">
