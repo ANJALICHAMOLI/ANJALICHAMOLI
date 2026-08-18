@@ -221,20 +221,6 @@ Explored:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalichamoli&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalichamoli&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anjalichamoli&theme=tokyonight&hide_border=true" />
-</p>
-
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
