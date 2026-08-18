@@ -1,42 +1,35 @@
 <h1 align="center">Hi 👋, I'm Anjali Chamoli</h1>
 
 <h3 align="center">
-AI/ML Enthusiast | Deep Learning Learner | Future AI Engineer
+AI/ML Enthusiast | Generative AI & LLM Learner | Building AI Applications
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Machine+Learning+Enthusiast;Deep+Learning+Explorer;Learning+Transformers+and+LLMs;Building+AI+Projects+with+Python;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=750&lines=Machine+Learning+Enthusiast;Deep+Learning+Explorer;Generative+AI+Learner;Building+RAG+Applications;Learning+LLMs+and+AI+Agents;Building+with+Python+and+LangChain" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science & AI Enthusiast from India
+🎓 B.Tech Information Technology student from India
 
-🤖 Passionate about Machine Learning, Deep Learning, NLP, and Generative AI
+🤖 Interested in **Machine Learning, Deep Learning, NLP, and Generative AI**
 
-📚 Currently exploring:
+💻 I enjoy learning by building, experimenting, and debugging AI systems.
 
-- Transformers Architecture
-- Self Attention Mechanism
-- NLP & Large Language Models
-- FastAPI for AI Applications
-- Deep Learning with TensorFlow & PyTorch
+### 🧠 Areas I'm Working With
 
-🔭 Working on:
-- Machine Learning Projects
-- Deep Learning Experiments
-- AI-powered Applications
-- Model Deployment using FastAPI
-
-🌱 Goal:
-- Contribute to AI Research
-- Build impactful AI products
-- Work on LLMs and Generative AI systems 
-
-⚡ Fun Fact:
-I love 🎨 Drawing, 💃 Dancing, and ✨ Crafting creative things.
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Transformers
+- Large Language Models
+- Generative AI
+- Retrieval Augmented Generation (RAG)
+- Vector Databases & Retrieval
+- Tool Calling
+- AI Agents
 
 ---
 
@@ -48,7 +41,7 @@ I love 🎨 Drawing, 💃 Dancing, and ✨ Crafting creative things.
 <img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </p>
 
-### AI / ML
+### 🤖 AI / ML
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
@@ -57,23 +50,66 @@ I love 🎨 Drawing, 💃 Dancing, and ✨ Crafting creative things.
 - Machine Learning
 - Deep Learning
 - Neural Networks
+- CNNs
 - NLP
-- Data Analysis
+- Transformers
 - Model Evaluation
+- Transfer Learning
 
-### Backend & Tools
+### 🧠 Generative AI
+
+<p align="left">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-00A67E?style=for-the-badge" />
+</p>
+
+- Large Language Models
+- Prompting
+- Chat Models
+- Embeddings
+- Retrieval Augmented Generation
+- Vector Stores
+- Retrievers
+- Tool Binding
+- Tool Calling
+- Tool Execution
+- ReAct Agents
+- AgentExecutor
+
+### 🔎 RAG & Retrieval
+
+<p align="left">
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Chroma-FF6B35?style=for-the-badge" />
+</p>
+
+- Similarity Search
+- Vector Embeddings
+- Wikipedia Retrieval
+- MMR Retrieval
+- MultiQuery Retrieval
+- Source-Based Retrieval
+- Document Retrieval
+
+### 🔧 Frameworks & Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode" />
 </p>
 
-### Data Science
+- LangChain
+- FastAPI
+- Flask
+- Git
+- GitHub
+- VS Code
+- REST APIs
+- Environment Variables
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+### 📊 Data Science
 
-- Python
 - NumPy
 - Pandas
 - Matplotlib
@@ -85,40 +121,94 @@ I love 🎨 Drawing, 💃 Dancing, and ✨ Crafting creative things.
 
 ---
 
-## 📈 Current Learning Journey
+## 🤖 Generative AI Journey
 
 ```text
-Python
-  ├── Data Structures
-  ├── Machine Learning
-  ├── Deep Learning
-  ├── CNNs
-  ├── NLP
-  ├── Transformers 
-  └── LLMs(learning)
+Machine Learning
+       ↓
+Deep Learning
+       ↓
+NLP
+       ↓
+Transformers
+       ↓
+Large Language Models
+       ↓
+Generative AI
+       ↓
+RAG & Vector Retrieval
+       ↓
+Tool Calling
+       ↓
+Tool Execution
+       ↓
+AI Agents
 ```
 
 ---
 
-## 🌟 Featured Areas
+## 📚 What I've Been Building
 
-🧠 Machine Learning
+### 🔎 RAG Applications
 
-📊 Data Analytics
+Working with the components behind Retrieval Augmented Generation:
 
-🤖 Deep Learning
+- Document processing
+- Embeddings
+- Vector stores
+- Similarity search
+- Retrievers
+- MMR
+- MultiQuery retrieval
+- Source-based retrieval
 
-📖 Natural Language Processing
+### 🧰 Tool Calling
 
-⚡ FastAPI
+Exploring how LLMs interact with external tools:
 
-🔬 AI Research
+```text
+User
+ ↓
+LLM
+ ↓
+Tool Call
+ ↓
+Tool Execution
+ ↓
+Tool Result
+ ↓
+LLM
+ ↓
+Final Response
+```
 
+Worked with:
+
+- Custom tools
+- Structured tools
+- Tool schemas
+- Tool binding
+- Tool calls
+- Tool execution
+- External APIs
+
+### 🤖 AI Agents
+
+Learning how LLMs can use tools to perform multi-step tasks.
+
+Explored:
+
+- ReAct
+- AgentExecutor
+- Multi tool agents
+- Tool based reasoning
+- Sequential tool execution
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/anjalichamoli">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -126,6 +216,7 @@ Python
 <a href="mailto:484anjali@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
 
 ---
@@ -133,23 +224,18 @@ Python
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjalichamoli&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalichamoli&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalichamoli&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalichamoli&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalichamoli&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anjalichamoli&theme=tokyonight&hide_border=true" />
+</p>
 
-## 💡 Quote I Live By
 
-> "The best way to predict the future is to build it."
-
+<p align="center">
 ⭐ Thanks for visiting my profile!
+</p>
