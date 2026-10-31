@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Chamoli</h1>
 
 <h3 align="center">
-AI/ML Enthusiast | Generative AI & LLM Learner | Building AI Applications
+AI/ML Enthusiast | Generative AI & LLM | Building AI Applications
 </h3>
 
 <p align="center">
